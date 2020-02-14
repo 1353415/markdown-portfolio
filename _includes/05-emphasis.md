@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Fun Hobbies to start this Summer
+- Genre reading list
+- Urban sketching
+- Country bike riding
+- Daily Journaling
+
+## Topics for writing
+- Mystery on the ski slopes
+- Coffee shop Romance
+- Terror on the Metro
+
+## Summer Reading List
+- Count of Monte Cristo
+- Dune
+- In the Garden of Good and Evil
+- Stephen King's It

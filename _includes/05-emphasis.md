@@ -11,6 +11,6 @@
 
 ## Summer Reading List
 - Count of Monte Cristo
-- Dune
+- Frank Herbert's Dune
 - In the Garden of Good and Evil
 - Stephen King's It

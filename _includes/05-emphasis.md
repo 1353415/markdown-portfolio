@@ -4,6 +4,8 @@
 - Country bike riding
 - Daily Journaling
 
+Below are **ideas** for ways to start _hobbies_:
+
 ## Topics for writing
 - Mystery on the ski slopes
 - Coffee shop Romance
